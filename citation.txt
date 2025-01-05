@@ -1,0 +1,7 @@
+@inproceedings{REPO003,
+    author = "Kwon, Woosuk and Li, Zhuohan and Zhuang, Siyuan and Sheng, Ying and Zheng, Lianmin and Yu, Cody Hao and Gonzalez, Joseph and Zhang, Hao and Stoica, Ion",
+    booktitle = "Proceedings of the 29th Symposium on Operating Systems Principles",
+    pages = "611--626",
+    title = "{Efficient memory management for large language model serving with pagedattention}",
+    year = "2023"
+}
